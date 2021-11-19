@@ -1,4 +1,4 @@
-# languages_app
+# Languages App
 
 A new Flutter application.
 
